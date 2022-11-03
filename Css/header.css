@@ -1,0 +1,583 @@
+@media(min-width: 1200px){
+header>section.header{
+    display:flex ;
+    margin: 10px 15px 0 15px;
+    margin-top: 80px;
+}
+
+header>section.header>div:nth-of-type(1){
+    width: 50%;
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.39);
+    transition: all 1s linear;
+    background-image: url(../img/hero-3.webp);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    background-position: center center;
+    padding: 50px;
+
+}
+header>section.header>div:nth-of-type(1):hover{
+    opacity: 0.9;
+}
+header>section.header>div:nth-of-type(2){
+    width: 50%;
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.356);
+    transition: all 1s linear;
+    background-image: url(../img/hero-2.webp);
+    background-repeat:no-repeat ;
+    background-size: cover; 
+    padding: 50px;
+}
+header>section.header>div:nth-of-type(2):hover{
+    opacity: 0.9;
+}
+
+header>section.header>div>h3{
+    font-size: 50px;
+    font-family: 'core';
+    animation-name: text-Extreme ;
+    animation-duration: 1.5s;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    animation-fill-mode: backwards;
+}
+
+@keyframes text-Extreme {
+    0%{ text-shadow: 2px 2px 3px black, 0 0 25px rgb(255, 255, 255), 0 0 5px rgb(68, 0, 255);}
+    25%{text-shadow: 2px 2px 3px black, 0 0 25px #FF9600, 0 0 5px darkblue; }
+    25%{ text-shadow: 2px 2px 3px black, 0 0 25px rgb(255, 253, 244), 0 0 5px rgb(209, 20, 124);}
+    100%{ text-shadow: 2px 2px 3px black, 0 0 25px #FF9600, 0 0 5px rgba(48, 20, 209, 0.158); }
+}
+
+
+
+header>section.header>div>p{
+font-family: 'Inter';
+}
+
+header>section.header>div>span{
+    font-family: 'core';
+}
+
+header>section.header>div{
+    color: white;
+    text-align: center;
+}
+
+header>section:nth-of-type(2){
+background-color: #0D244C;    
+height: 200px;
+margin: 0 15px 0 15px;
+text-align: center;
+}
+
+header>section:nth-of-type(2)>div{
+    width: inherit;
+    height: inherit;
+    background-image: url(../img/pattern-5.webp);
+}
+
+header>section:nth-of-type(2)>div>input{
+    background: content-box;
+    border: none;
+    border-bottom: 3px solid #455673;
+    border-radius: 10px;
+    outline: none;
+    width: 480px;
+    font-size: 20px;
+    margin-top: 78px;
+    margin-right: 87px;
+    color: white;
+    padding: 5px 35px;
+}
+
+header>section:nth-of-type(2)>div>input:focus{
+    border-bottom: 3px solid #817759;
+}
+
+header>section:nth-of-type(2)>div>span{
+    color: white;
+}
+header>section:nth-of-type(2)>div>span>i{
+    margin-left: 40px;
+}
+
+header>section:nth-of-type(2)>div>span>span{
+    font-family:'system-ui';
+}
+
+
+div.banner{
+    margin: 10px 15px 0 15px;
+ 
+    background-image: url(../img/banner-10.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div.banner>h1{
+    text-align: center;
+    color: white;
+    font-family: "Inter";
+    font-size: 40px;
+    padding: 128px 0;
+}}
+
+@media(min-width: 992px) and (max-width: 1200px){
+    header>section.header{
+        display:flex ;
+        padding: 10px 15px 0 15px;
+        margin-top: 80px;
+    }
+    
+    header>section.header>div:nth-of-type(1){
+        width: 50%;
+        height: 500px;
+        background-color: rgba(0, 0, 0, 0.39);
+        transition: all 1s linear;
+        background-image: url(../img/hero-3.webp);
+        background-repeat:no-repeat ;
+        background-size: cover;
+        background-position: center;
+        padding: 50px;
+    
+    }
+    header>section.header>div:nth-of-type(1):hover{
+        opacity: 0.9;
+    }
+    header>section.header>div:nth-of-type(2){
+        width: 50%;
+        height: 500px;
+        background-color: rgba(0, 0, 0, 0.356);
+        transition: all 1s linear;
+        background-image: url(../img/hero-2.webp);
+        background-repeat:no-repeat ;
+        background-size: cover; 
+        background-position: center center;
+        padding: 50px;
+    }
+    header>section.header>div:nth-of-type(2):hover{
+        opacity: 0.9;
+    }
+    
+    header>section.header>div>h3{
+        font-size: 50px;
+        font-family: 'core';
+    }
+    header>section.header>div>p{
+    font-family: 'Inter';
+    }
+    
+    header>section.header>div>span{
+        font-family: 'core';
+    }
+    
+    header>section.header>div{
+        color: white;
+        text-align: center;
+    }
+    
+    header>section:nth-of-type(2){
+    background-color: #0D244C;    
+    height: 200px;
+    margin: 0 15px 0 15px;
+    text-align: center;
+    }
+    
+    header>section:nth-of-type(2)>div{
+        width: inherit;
+        height: inherit;
+        background-image: url(../img/pattern-5.webp);
+    }
+    
+    header>section:nth-of-type(2)>div>input{
+        background: content-box;
+        border: none;
+        border-bottom: 3px solid #455673;
+        border-radius: 10px;
+        outline: none;
+        width: 480px;
+        font-size: 20px;
+        margin-top: 78px;
+        margin-right: 87px;
+        color: white;
+        padding: 5px 35px;
+    }
+    
+    header>section:nth-of-type(2)>div>input:focus{
+        border-bottom: 3px solid #817759;
+    }
+    
+    header>section:nth-of-type(2)>div>span{
+        color: white;
+    }
+    header>section:nth-of-type(2)>div>span>i{
+        margin: 20px;
+    }
+    
+    header>section:nth-of-type(2)>div>span>span{
+        font-family:'system-ui';
+    }
+    
+    
+    div.banner{
+        margin: 10px 15px 0 15px;
+     
+        background-image: url(../img/banner-10.jpg);
+        background-position: center top;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    div.banner>h1{
+        text-align: center;
+        color: white;
+        font-family: "Inter";
+        font-size: 40px;
+        padding: 128px 0;
+    }}
+
+    @media(min-width: 768px) and (max-width: 992px){
+
+        header>section.header{
+            display:flex ;
+            padding: 10px 15px 0 15px;
+            margin-top: 80px;
+        }
+        
+        header>section.header>div:nth-of-type(1){
+            width: 50%;
+            height: 500px;
+            background-color: rgba(0, 0, 0, 0.39);
+            transition: all 1s linear;
+            background-image: url(../img/hero-3.webp);
+            background-repeat:no-repeat ;
+            background-size: cover;
+            background-position: center;
+            padding: 50px;
+        
+        }
+        header>section.header>div:nth-of-type(1):hover{
+            opacity: 0.9;
+        }
+        header>section.header>div:nth-of-type(2){
+            width: 50%;
+            height: 500px;
+            background-color: rgba(0, 0, 0, 0.356);
+            transition: all 1s linear;
+            background-image: url(../img/hero-2.webp);
+            background-repeat:no-repeat ;
+            background-position: center center;
+            background-size: cover; 
+            padding: 50px;
+        }
+        header>section.header>div:nth-of-type(2):hover{
+            opacity: 0.9;
+        }
+        
+        header>section.header>div>h3{
+            font-size: 50px;
+            font-family: 'core';
+        }
+        header>section.header>div>p{
+        font-family: 'Inter';
+        }
+        
+        header>section.header>div>span{
+            font-family: 'core';
+        }
+        
+        header>section.header>div{
+            color: white;
+            text-align: center;
+        }
+        
+        header>section:nth-of-type(2){
+        background-color: #0D244C;    
+        height: 200px;
+        margin: 0 15px 0 15px;
+        text-align: center;
+        }
+        
+        header>section:nth-of-type(2)>div{
+            width: inherit;
+            height: inherit;
+            background-image: url(../img/pattern-5.webp);
+        }
+        
+        header>section:nth-of-type(2)>div>input{
+            background: content-box;
+            border: none;
+            border-bottom: 3px solid #455673;
+            border-radius: 10px;
+            outline: none;
+            width: 450px;
+            font-size: 20px;
+            margin: 20px;
+            color: white;
+            padding: 5px 35px;
+        }
+        
+        header>section:nth-of-type(2)>div>input:focus{
+            border-bottom: 3px solid #817759;
+        }
+        
+        header>section:nth-of-type(2)>div>span{
+            color: white;
+            display: block;
+        }
+        header>section:nth-of-type(2)>div>span>i{
+            padding: 20px;
+        }
+        
+        header>section:nth-of-type(2)>div>span>span{
+            font-family:'system-ui';
+        }
+        
+        
+        div.banner{
+            margin: 10px 15px 0 15px;
+         
+            background-image: url(../img/banner-10.jpg);
+            background-position: center top;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        div.banner>h1{
+            text-align: center;
+            color: white;
+            font-family: "Inter";
+            font-size: 40px;
+            padding: 128px 0;
+        }}
+ 
+        @media(min-width: 540px) and (max-width: 768px){
+
+            header>section.header{
+                display:flex ;
+                padding: 10px 15px 0 15px;
+                margin-top: 80px;
+            }
+            
+            header>section.header>div:nth-of-type(1){
+                width: 50%;
+                height: 500px;
+                background-color: rgba(0, 0, 0, 0.39);
+                transition: all 1s linear;
+                background-image: url(../img/hero-3.webp);
+                background-repeat:no-repeat ;
+                background-size: cover;
+                background-position: center;
+                padding: 50px;
+            
+            }
+            header>section.header>div:nth-of-type(1):hover{
+                opacity: 0.9;
+            }
+            header>section.header>div:nth-of-type(2){
+                width: 50%;
+                height: 500px;
+                background-color: rgba(0, 0, 0, 0.356);
+                transition: all 1s linear;
+                background-image: url(../img/hero-2.webp);
+                background-repeat:no-repeat ;
+                background-size: cover;
+                background-position: center center; 
+                padding: 50px;
+            }
+            header>section.header>div:nth-of-type(2):hover{
+                opacity: 0.9;
+            }
+            
+            header>section.header>div>h3{
+                font-size: 50px;
+                font-family: 'core';
+            }
+            header>section.header>div>p{
+            font-family: 'Inter';
+            }
+            
+            header>section.header>div>span{
+                font-family: 'core';
+            }
+            
+            header>section.header>div{
+                color: white;
+                text-align: center;
+            }
+            
+            header>section:nth-of-type(2){
+            background-color: #0D244C;    
+            height: 200px;
+            margin: 0 15px 0 15px;
+            text-align: center;
+            }
+            
+            header>section:nth-of-type(2)>div{
+                width: inherit;
+                height: inherit;
+                background-image: url(../img/pattern-5.webp);
+            }
+            
+            header>section:nth-of-type(2)>div>input{
+                background: content-box;
+                border: none;
+                border-bottom: 3px solid #455673;
+                border-radius: 10px;
+                outline: none;
+                width: 340px;
+                font-size: 20px;
+                margin: 20px;
+                color: white;
+                padding: 5px 35px;
+            }
+            
+            header>section:nth-of-type(2)>div>input:focus{
+                border-bottom: 3px solid #817759;
+            }
+            
+            header>section:nth-of-type(2)>div>span{
+                color: white;
+                display: block;
+            }
+            header>section:nth-of-type(2)>div>span>i{
+                margin: 20px;
+            }
+            
+            header>section:nth-of-type(2)>div>span>span{
+                font-family:'system-ui';
+            }
+            
+            
+            div.banner{
+                margin: 10px 15px 0 15px;
+             
+                background-image: url(../img/banner-10.jpg);
+                background-position: center top;
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+            div.banner>h1{
+                text-align: center;
+                color: white;
+                font-family: "Inter";
+                font-size: 40px;
+                padding: 128px 0;
+            }}
+       
+            @media(max-width: 540px){
+
+                header>section.header{
+                    padding: 10px 15px 0 15px;
+                    margin-top: 80px;
+                }
+                
+                header>section.header>div:nth-of-type(1){
+                    background-color: rgba(0, 0, 0, 0.39);
+                    transition: all 1s linear;
+                    background-image: url(../img/hero-3.webp);
+                    background-repeat:no-repeat ;
+                    background-size: cover;
+                    background-position: center center;
+                    padding: 50px;
+                    margin-bottom: 20px;
+                }
+                header>section.header>div:nth-of-type(1):hover{
+                    opacity: 0.7;
+                    color: pink;
+                }
+                header>section.header>div:nth-of-type(2){
+                    background-color: rgba(0, 0, 0, 0.356);
+                    transition: all 1s linear;
+                    background-image: url(../img/hero-2.webp);
+                    background-repeat:no-repeat ;
+                    background-size: cover ;
+                    background-position: center center;
+                    padding: 50px;
+                    margin-bottom: 20px;
+                }
+
+                header>section.header>div:nth-of-type(2):hover{
+                    opacity: 0.7;
+                    color: rgb(4, 0, 255);
+                }
+                
+                header>section.header>div>h3{
+                    font-size: 50px;
+                    font-family: 'core';
+                }
+                header>section.header>div>p{
+                font-family: 'Inter';
+                }
+                
+                header>section.header>div>span{
+                    font-family: 'core';
+                }
+                
+                header>section.header>div{
+                    color: white;
+                    text-align: center;
+                }
+                
+                header>section:nth-of-type(2){
+                background-color: #0D244C;    
+                height: 200px;
+                margin: 0 15px 0 15px;
+                text-align: center;
+                }
+                
+                header>section:nth-of-type(2)>div{
+                    width: inherit;
+                    height: inherit;
+                    background-image: url(../img/pattern-5.webp);
+                }
+                
+                header>section:nth-of-type(2)>div>input{
+                    background: content-box;
+                    border: none;
+                    border-bottom: 3px solid #455673;
+                    border-radius: 10px;
+                    outline: none;
+                    width: 300px;
+                    font-size: 20px;
+                    margin: 20px;
+                    color: white;
+                    padding: 5px 35px;
+                }
+                
+                header>section:nth-of-type(2)>div>input:focus{
+                    border-bottom: 3px solid #817759;
+                }
+                
+                header>section:nth-of-type(2)>div>span{
+                    color: white;
+                    display: block;
+                    margin: 20px 0;
+                }
+                header>section:nth-of-type(2)>div>span>i{
+                   
+                    padding: 10px 20px;
+                }
+                
+                header>section:nth-of-type(2)>div>span>span{
+                    font-family:'system-ui';
+                }
+                
+                
+                div.banner{
+                    margin: 10px 15px 0 15px;
+                 
+                    background-image: url(../img/banner-10.jpg);
+                    background-position: center top;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                }
+                div.banner>h1{
+                    text-align: center;
+                    color: white;
+                    font-family: "Inter";
+                    font-size: 40px;
+                    padding: 128px 0;
+                }}
+                

@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+  }
+  
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family:'Haloha';
+    src: url( ../font/Haloha.ttf );
+}
+
+
+@font-face {
+    font-family: 'core' ;
+    src: url(../font/Core/Fontspring-coresansar15.otf) ,
+    url(../font/Core/Fontspring-coresansar85.otf);
+}
+
+@font-face {
+    font-family:'Roboto';
+    src: url(../font/Roboto/RobotoCondensed-Regular.ttf);
+    src: url(../font/Roboto/RobotoCondensed-Regular.ttf) , url(../font/Roboto/RobotoCondensed-Bold.ttf);
+}
+
+
+@font-face {
+    font-family: 'Inter' ;
+    src: url(../font/Inter/Inter-accent.otf) 
+    , url(../font/Inter/Inter\ Regular.otf) 
+    , url(../font/Inter/Inter\ Bold.otf) 
+    , url(../font/Inter/Inter\ Light.otf) ;
+}
+
+@font-face {
+    font-family: 'workSans' ;
+    src: url(../font/workSans/WorkSans-Bold.ttf)
+    , url(../font/workSans/WorkSans-ExtraLight.ttf)
+    , url(../font/workSans/WorkSans-Regular.ttf)
+    , url(../font/workSans/WorkSans-Medium.ttf);
+}

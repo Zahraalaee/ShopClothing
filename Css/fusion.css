@@ -1,0 +1,509 @@
+@media(min-width: 1200px){
+section.fusion{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+section.fusion>div:nth-of-type(1){
+    background-image: url(../img/hero-8.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 828px;
+    width: 660px;
+    text-align: center;
+    padding-top: 250px;  
+    filter: grayscale(20%);
+     transition: all 500ms linear;
+     overflow: hidden;
+}
+
+section.fusion>div:nth-of-type(1):hover {
+    transform: scale(1.01); 
+    opacity: 0.9;
+}
+
+
+section.fusion>div:nth-of-type(2){
+    text-align: center;
+   
+}
+
+section.fusion>div:nth-of-type(2)>div:nth-of-type(1){
+    background-image: url(../img/hero-6.webp);
+    background-size: cover;
+    background-position: top left;
+    background-repeat: no-repeat;
+    height: 389px;
+    width: 670px;
+    margin-left: 55px;
+    filter: grayscale(20%);
+    transition: all 500ms linear;
+    overflow: hidden;
+}
+section.fusion>div:nth-of-type(2)>div:nth-of-type(1):hover {
+    transform: scale(1.01); 
+    opacity: 0.9;
+}
+
+section.fusion>div:nth-of-type(2)>div:nth-of-type(2){
+    background-image: url(../img/hero-10.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 389px;
+    width: 670px;
+    margin-left: 55px;
+    margin-top: 50px;
+    filter: grayscale(20%);
+    transition: all 500ms linear;
+    overflow: hidden;
+}
+
+section.fusion>div:nth-of-type(2)>div:nth-of-type(2):hover {
+    transform: scale(1.01); 
+    opacity: 0.9;
+}
+
+section.fusion>div{
+    color: white;
+    font-family:'Inter';
+    
+}
+section.fusion>div>h2{
+font-size: 40px;
+}
+section.fusion>div>p{
+    font-size: 14px;
+}
+section.fusion>div>a{
+color: white;
+text-decoration: solid;
+}
+
+section.fusion>div>div{
+    color: white;
+    padding-top: 100px;
+}
+section.fusion>div>div>h2{
+margin-top: 0;
+font-size: 34px;
+}
+section.fusion>div>div>p{
+    font-size: 14px;
+}
+section.fusion>div>div>a{
+    color: white;
+    text-decoration: solid;
+}
+}
+
+@media(min-width: 992px) and (max-width: 1200px){
+    section.fusion{
+        display: flex;
+        justify-content: center;
+        margin-top: 80px;
+    }
+    
+    section.fusion>div:nth-of-type(1){
+        background-image: url(../img/hero-8.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 628px;
+        width: 460px;
+        text-align: center;
+        padding-top: 250px;  
+        filter: grayscale(20%);
+         transition: all 500ms linear;
+         overflow: hidden;
+    }
+    
+    section.fusion>div:nth-of-type(1):hover {
+        transform: scale(1.01); 
+        opacity: 0.9;
+    }
+    
+    
+    section.fusion>div:nth-of-type(2){
+        text-align: center;
+       
+    }
+    
+    section.fusion>div:nth-of-type(2)>div:nth-of-type(1){
+        background-image: url(../img/hero-6.webp);
+        background-size: cover;
+        background-position: top left;
+        background-repeat: no-repeat;
+        height: 289px;
+        width: 460px;
+        margin-left: 55px;
+        filter: grayscale(20%);
+        transition: all 500ms linear;
+        overflow: hidden;
+    }
+    section.fusion>div:nth-of-type(2)>div:nth-of-type(1):hover {
+        transform: scale(1.01); 
+        opacity: 0.9;
+    }
+    
+    section.fusion>div:nth-of-type(2)>div:nth-of-type(2){
+        background-image: url(../img/hero-10.webp);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 289px;
+        width: 470px;
+        margin-left: 55px;
+        margin-top: 50px;
+        filter: grayscale(20%);
+        transition: all 500ms linear;
+        overflow: hidden;
+    }
+    
+    section.fusion>div:nth-of-type(2)>div:nth-of-type(2):hover {
+        transform: scale(1.01); 
+        opacity: 0.9;
+    }
+    
+    section.fusion>div{
+        color: white;
+        font-family:'Inter';
+        
+    }
+    section.fusion>div>h2{
+    font-size: 40px;
+    }
+    section.fusion>div>p{
+        font-size: 14px;
+    }
+    section.fusion>div>a{
+    color: white;
+    text-decoration: solid;
+    }
+    
+    section.fusion>div>div{
+        color: white;
+        padding-top: 100px;
+    }
+    section.fusion>div>div>h2{
+    margin-top: 0;
+    font-size: 34px;
+    }
+    section.fusion>div>div>p{
+        font-size: 14px;
+    }
+    section.fusion>div>div>a{
+        color: white;
+        text-decoration: solid;
+    }
+    }
+
+    @media(min-width: 768px) and (max-width: 992px){
+        section.fusion{
+            display: flex;
+            justify-content: center;
+            margin-top: 80px;
+        }
+        
+        section.fusion>div:nth-of-type(1){
+            background-image: url(../img/hero-8.webp);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            height: 628px;
+            width: 390px;
+            text-align: center;
+            padding-top: 250px;  
+            filter: grayscale(20%);
+             transition: all 500ms linear;
+             overflow: hidden;
+        }
+        
+        section.fusion>div:nth-of-type(1):hover {
+            transform: scale(1.01); 
+            opacity: 0.9;
+        }
+        
+        
+        section.fusion>div:nth-of-type(2){
+            text-align: center;
+           
+        }
+        
+        section.fusion>div:nth-of-type(2)>div:nth-of-type(1){
+            background-image: url(../img/hero-6.webp);
+            background-size: cover;
+            background-position: top left;
+            background-repeat: no-repeat;
+            background-position: center;
+            height: 308px;
+            width: 290px;
+            margin-left: 55px;
+            filter: grayscale(20%);
+            transition: all 500ms linear;
+            overflow: hidden;
+        }
+        section.fusion>div:nth-of-type(2)>div:nth-of-type(1):hover {
+            transform: scale(1.01); 
+            opacity: 0.9;
+        }
+        
+        section.fusion>div:nth-of-type(2)>div:nth-of-type(2){
+            background-image: url(../img/hero-10.webp);
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 308px;
+            width: 290px;
+            margin-left: 55px;
+            margin-top: 10px;
+            filter: grayscale(20%);
+            transition: all 500ms linear;
+            overflow: hidden;
+        }
+        
+        section.fusion>div:nth-of-type(2)>div:nth-of-type(2):hover {
+            transform: scale(1.01); 
+            opacity: 0.9;
+        }
+        
+        section.fusion>div{
+            color: white;
+            font-family:'Inter';
+            
+        }
+        section.fusion>div>h2{
+        font-size: 40px;
+        }
+        section.fusion>div>p{
+            font-size: 14px;
+        }
+        section.fusion>div>a{
+        color: white;
+        text-decoration: solid;
+        }
+        
+        section.fusion>div>div{
+            color: white;
+            padding-top: 100px;
+        }
+        section.fusion>div>div>h2{
+        margin-top: 0;
+        font-size: 25px;
+        }
+        section.fusion>div>div>p{
+            font-size: 12px;
+        }
+        section.fusion>div>div>a{
+            color: white;
+            text-decoration: solid;
+        }
+        }
+
+        @media(min-width: 540px) and (max-width: 768px){
+            section.fusion{
+                text-align: center;
+                margin-top: 80px;
+            }
+            
+            section.fusion>div:nth-of-type(1){
+                background-image: url(../img/hero-8.webp);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                height: 380px;
+                width: 530px;
+                text-align: center;
+                padding-top: 100px;
+                margin:0 auto;
+                filter: grayscale(50%);
+                 transition: all 500ms linear;
+                 overflow: hidden;
+            }
+            
+            section.fusion>div:nth-of-type(1):hover {
+                transform: scale(1.01); 
+                opacity: 0.9;
+            }
+            
+            
+            section.fusion>div:nth-of-type(2){
+                text-align: center;
+               
+            }
+            
+            section.fusion>div:nth-of-type(2)>div:nth-of-type(1){
+                background-image: url(../img/hero-6.webp);
+                background-size: cover;
+                background-position: top left;
+                background-repeat: no-repeat;
+                height: 380px;
+                width: 530px;
+                margin:0 auto;
+                margin-top: 50px;
+                filter: grayscale(50%);
+                transition: all 500ms linear;
+                overflow: hidden;
+            }
+            section.fusion>div:nth-of-type(2)>div:nth-of-type(1):hover {
+                transform: scale(1.01); 
+                opacity: 0.9;
+            }
+            
+            section.fusion>div:nth-of-type(2)>div:nth-of-type(2){
+                background-image: url(../img/hero-10.webp);
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+                height: 380px;
+                width: 530px;
+                margin:0 auto;
+                margin-top: 50px;
+                filter: grayscale(50%);
+                transition: all 500ms linear;
+                overflow: hidden;
+            }
+            
+            section.fusion>div:nth-of-type(2)>div:nth-of-type(2):hover {
+                transform: scale(1.01); 
+                opacity: 0.9;
+            }
+            
+            section.fusion>div{
+                color: rgb(131, 131, 131);
+                font-family:'Inter';
+                
+            }
+            section.fusion>div>h2{
+            font-size: 40px;
+            color: rgb(131, 131, 131);
+            }
+            section.fusion>div>p{
+                font-size: 14px;
+            }
+            section.fusion>div>a{
+                color: rgb(131, 131, 131);
+            text-decoration: solid;
+            }
+            
+            section.fusion>div>div{
+                color: rgb(131, 131, 131);
+                padding-top: 100px;
+            }
+            section.fusion>div>div>h2{
+            margin-top: 0;
+            font-size: 34px;
+            }
+            section.fusion>div>div>p{
+                font-size: 14px;
+            }
+            section.fusion>div>div>a{
+                color: rgb(131, 131, 131);
+                text-decoration: solid;
+            }
+            }
+
+            @media(max-width: 540px) {
+                section.fusion{
+                    text-align: center;
+                    margin-top: 80px;
+                }
+                
+                section.fusion>div:nth-of-type(1){
+                    background-image: url(../img/hero-8.webp);
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    background-position: center;
+                    height: 389px;
+                    width: 470px;
+                    text-align: center;
+                    padding-top: 100px;
+                    margin:0 auto;
+                    filter: grayscale(50%);
+                     transition: all 500ms linear;
+                     overflow: hidden;
+                }
+                
+                section.fusion>div:nth-of-type(1):hover {
+                    transform: scale(1.01); 
+                    opacity: 0.9;
+                }
+                
+                
+                section.fusion>div:nth-of-type(2){
+                    text-align: center;
+                   
+                }
+                
+                section.fusion>div:nth-of-type(2)>div:nth-of-type(1){
+                    background-image: url(../img/hero-6.webp);
+                    background-size: cover;
+                    background-position: top left;
+                    background-repeat: no-repeat;
+                    height: 370px;
+                    width: 470px;
+                    margin:0 auto;
+                    margin-top: 50px;
+                    filter: grayscale(50%);
+                    transition: all 500ms linear;
+                    overflow: hidden;
+                }
+                section.fusion>div:nth-of-type(2)>div:nth-of-type(1):hover {
+                    transform: scale(1.01); 
+                    opacity: 0.9;
+                }
+                
+                section.fusion>div:nth-of-type(2)>div:nth-of-type(2){
+                    background-image: url(../img/hero-10.webp);
+                    background-size: cover;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    height: 389px;
+                    width: 470px;
+                    margin:0 auto;
+                    margin-top: 50px;
+                    filter: grayscale(50%);
+                    transition: all 500ms linear;
+                    overflow: hidden;
+                }
+                
+                section.fusion>div:nth-of-type(2)>div:nth-of-type(2):hover {
+                    transform: scale(1.01); 
+                    opacity: 0.9;
+                }
+                
+                section.fusion>div{
+                    color: rgb(131, 131, 131);
+                    font-family:'Inter';
+                    
+                }
+                section.fusion>div>h2{
+                font-size: 40px;
+                color: rgb(131, 131, 131);
+                }
+                section.fusion>div>p{
+                    font-size: 14px;
+                }
+                section.fusion>div>a{
+                    color: rgb(131, 131, 131);
+                text-decoration: solid;
+                }
+                
+                section.fusion>div>div{
+                    color: rgb(131, 131, 131);
+                    padding-top: 100px;
+                }
+                section.fusion>div>div>h2{
+                margin-top: 0;
+                font-size: 34px;
+                }
+                section.fusion>div>div>p{
+                    font-size: 14px;
+                }
+                section.fusion>div>div>a{
+                    color: rgb(131, 131, 131);
+                    text-decoration: solid;
+                }
+                }

@@ -1,0 +1,340 @@
+@media(min-width: 1200px){
+    section.blog{
+        background-color: #0D244C;
+         background-image: url(../img/line-6.svg);
+        color: white;
+        margin: 50px 20px;
+            padding: 50px 20px 100px 20px;
+        }
+        section.blog>section{
+            display: flex;
+            justify-content: center;
+        }
+        
+        section.blog>div>h3{
+            text-align: center;
+            font-size: 32px;
+            font-family: 'Inter';
+        }
+        
+        section.blog>div>p{
+            text-align: center;
+            font-family: system-ui;
+            color: #aaaaaacf;
+            margin-bottom: 75px;
+        }
+        
+        section.blog>section>div>a>img{
+            width: 380px;
+            height: 242px;
+        }
+        
+        section.blog>section>div:nth-of-type(2){
+            margin: 0px 40px;
+        }
+        
+        section.blog>section>div>a{
+            display: block;
+            height: 300px;
+        }
+        
+        section.blog>section>div>a>div{
+            font-family: 'Inter';
+            color: white;
+            background-color: #0D244C;
+            font-size: 24px;
+            width: 78%;
+            padding: 38px 18px;
+            position: relative;
+            top: -84px;
+            font-weight: bold;
+        }
+        
+        section.blog>section>div>a>div>span{
+           display: block;
+           font-size: 12px;
+           color: aliceblue;
+           padding: 15px 0;
+           transition: all 300ms linear;
+        }
+
+        section.blog>section>div>a>div>span:hover{
+            color: #aa957d;
+        }
+        
+}
+
+@media(min-width: 992px) and (max-width: 1200px){
+    section.blog{
+        background-color: #0D244C;
+         background-image: url(../img/line-6.svg);
+        color: white;
+        margin: 50px 20px;
+            padding: 50px 20px 100px 20px;
+        }
+        section.blog>section{
+            display: flex;
+            justify-content: center;
+        }
+        
+        section.blog>div>h3{
+            text-align: center;
+            font-size: 32px;
+            font-family: 'Inter';
+        }
+        
+        section.blog>div>p{
+            text-align: center;
+            font-family: system-ui;
+            color: #aaaaaacf;
+            margin-bottom: 75px;
+        }
+        
+        section.blog>section>div:nth-of-type(2){
+            margin: 0px 40px;
+        }
+        
+        section.blog>section>div>a{
+            display: block;
+            height: 300px;
+        }
+
+           section.blog>section>div>a>img{
+            width: 285px;
+            height: 200px;
+        }
+        
+        
+        section.blog>section>div>a>div{
+            font-family: 'Inter';
+            color: white;
+            background-color: #0D244C;
+            font-size: 24px;
+            width: 78%;
+            padding: 38px 18px;
+            position: relative;
+            top: -84px;
+            font-weight: bold;
+        }
+        
+        section.blog>section>div>a>div>span{
+           display: block;
+           font-size: 12px;
+           color: aliceblue;
+           padding: 15px 0;
+           transition: all 300ms linear;
+        }
+
+        section.blog>section>div>a>div>span:hover{
+            color: #aa957d;
+        }
+        
+}
+
+
+@media(min-width: 768px) and (max-width: 992px){
+    section.blog{
+        background-color: #0D244C;
+         background-image: url(../img/line-6.svg);
+        color: white;
+        margin: 50px 20px;
+            padding: 50px 20px 100px 20px;
+        }
+        section.blog>section{
+            text-align: center;
+        }
+        
+        section.blog>div>h3{
+            text-align: center;
+            font-size: 32px;
+            font-family: 'Inter';
+        }
+        
+        section.blog>div>p{
+            text-align: center;
+            font-family: system-ui;
+            color: #aaaaaacf;
+            margin-bottom: 75px;
+        }
+        
+        section.blog>section>div:nth-of-type(2){
+            margin: 180px 0;
+        }
+        section.blog>section>div:nth-of-type(3){
+            margin-bottom: 80px;
+        }
+
+        section.blog>section>div>a{
+            display: block;
+            height: 300px;
+        }
+
+           section.blog>section>div>a>img{
+            width: 730px;
+            height: 420px;
+        }
+        
+        
+        section.blog>section>div>a>div{
+            font-family: 'Inter';
+            color: white;
+            background-color: #0D244C;
+            font-size: 24px;
+            width: 78%;
+            padding: 20px 20px;
+            position: relative;
+            top: -100px;
+            font-weight: bold;
+        }
+        
+        section.blog>section>div>a>div>span{
+           display: block;
+           font-size: 12px;
+           color: aliceblue;
+           padding: 15px 0;
+           transition: all 300ms linear;
+        }
+
+        section.blog>section>div>a>div>span:hover{
+            color: #aa957d;
+        }
+        
+}
+
+
+@media(min-width: 540px) and (max-width: 768px){
+    section.blog{
+        background-color: #0D244C;
+         background-image: url(../img/line-6.svg);
+        color: white;
+        margin: 50px 20px;
+            padding: 50px 20px 100px 20px;
+        }
+        section.blog>section{
+            text-align: center;
+        }
+        
+        section.blog>div>h3{
+            text-align: center;
+            font-size: 32px;
+            font-family: 'Inter';
+        }
+        
+        section.blog>div>p{
+            text-align: center;
+            font-family: system-ui;
+            color: #aaaaaacf;
+            margin-bottom: 75px;
+        }
+        
+        section.blog>section>div:nth-of-type(2){
+            margin: 180px 0;
+        }
+        section.blog>section>div:nth-of-type(3){
+            margin-bottom: 80px;
+        }
+
+        section.blog>section>div>a{
+            display: block;
+            height: 300px;
+        }
+
+           section.blog>section>div>a>img{
+            width: 500px;
+            height: 290px;
+        }
+        
+        
+        section.blog>section>div>a>div{
+            font-family: 'Inter';
+            color: white;
+            background-color: #0D244C;
+            font-size: 24px;
+            width: 78%;
+            padding: 20px 20px;
+            position: relative;
+            top: -100px;
+            font-weight: bold;
+        }
+        
+        section.blog>section>div>a>div>span{
+           display: block;
+           font-size: 12px;
+           color: aliceblue;
+           padding: 15px 0;
+           transition: all 300ms linear;
+        }
+
+        section.blog>section>div>a>div>span:hover{
+            color: #aa957d;
+        }
+        
+}
+
+@media(max-width: 540px) {
+    section.blog{
+        background-color: #0D244C;
+         background-image: url(../img/line-6.svg);
+        color: white;
+        margin: 50px 20px;
+            padding: 10px 20px 10px 20px;
+        }
+        section.blog>section{
+            text-align: center;
+        }
+        
+        section.blog>div>h3{
+            text-align: center;
+            font-size: 25px;
+            font-family: 'Inter';
+        }
+        
+        section.blog>div>p{
+            text-align: center;
+            font-family: system-ui;
+            color: #aaaaaacf;
+            margin-bottom: 75px;
+        }
+        
+        section.blog>section>div:nth-of-type(2){
+            margin: 20px 0;
+        }
+        section.blog>section>div:nth-of-type(3){
+            margin-bottom: 20px;
+        }
+
+        section.blog>section>div>a{
+            display: block;
+            height: 250px;
+        }
+
+           section.blog>section>div>a>img{
+            width: 400px;
+            height: 270px;
+        }
+        
+        
+        section.blog>section>div>a>div{
+            font-family: 'Inter';
+            color: white;
+            background-color: #0D244C;
+            font-size: 18px;
+            padding: 15px 15px;
+            position: relative;
+            top: -120px;
+            font-weight: bold;
+        }
+        
+        section.blog>section>div>a>div>span{
+           display: block;
+           font-size: 12px;
+           color: aliceblue;
+           padding: 15px 0;
+           transition: all 300ms linear;
+        }
+
+        section.blog>section>div>a>div>span:hover{
+            color: #aa957d;
+        }
+        
+}

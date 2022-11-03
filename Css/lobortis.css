@@ -1,0 +1,101 @@
+@media(min-width: 1200px){
+div.lobortis{
+    text-align: center;
+    margin: 100px auto;
+}
+div.lobortis>div>p{
+    font-size: 28px;
+    line-height: 1.5em;
+    letter-spacing: 1px;
+    font-family: 'Roboto';
+}
+div.lobortis>div>a{
+    font-size: 20px;
+    line-height: 1.5em;
+    font-family: 'Roboto';
+    letter-spacing: 1px;
+color: black;
+}
+}
+
+@media(min-width: 992px) and (max-width: 1200px){
+    div.lobortis{
+        text-align: center;
+        margin: 100px auto;
+    }
+    div.lobortis>div>p{
+        font-size: 28px;
+        line-height: 1.5em;
+        letter-spacing: 1px;
+        font-family: 'Roboto';
+    }
+    div.lobortis>div>a{
+        font-size: 20px;
+        line-height: 1.5em;
+        font-family: 'Roboto';
+        letter-spacing: 1px;
+    color: black;
+    }
+    }
+
+    @media(min-width: 768px) and (max-width: 992px){
+        div.lobortis{
+            text-align: center;
+            margin: 100px 20px;
+        }
+        div.lobortis>div>p{
+            font-size: 22px;
+            line-height: 1.5em;
+            letter-spacing: 1px;
+            font-family: 'Roboto';
+        }
+        div.lobortis>div>a{
+            font-size: 18px;
+            line-height: 1.5em;
+            font-family: 'Roboto';
+            letter-spacing: 1px;
+        color: black;
+        }
+        }
+
+        @media(min-width: 540px) and (max-width: 768px){
+            div.lobortis{
+                text-align: center;
+                margin: 100px 20px;
+            }
+            div.lobortis>div>p{
+                font-size: 22px;
+                line-height: 1.5em;
+                letter-spacing: 1px;
+                font-family: 'Roboto';
+            }
+            div.lobortis>div>a{
+                font-size: 20px;
+                line-height: 1.5em;
+                font-family: 'Roboto';
+                letter-spacing: 1px;
+            color: black;
+            }
+            }
+            
+            @media(max-width: 540px){
+                div.lobortis{
+                    text-align: center;
+                    margin: 100px 20px;
+                }
+                div.lobortis>div>p{
+                    font-size: 22px;
+                    line-height: 1.5em;
+                    letter-spacing: 1px;
+                    font-family: 'Roboto';
+                }
+                div.lobortis>div>a{
+                    font-size: 20px;
+                    line-height: 1.5em;
+                    font-family: 'Roboto';
+                    letter-spacing: 1px;
+                color: black;
+                }
+                }
+
+             

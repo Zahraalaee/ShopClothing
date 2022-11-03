@@ -1,0 +1,30 @@
+header>div.hshop{
+    background-image: url(../img/banner-11-scaled.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    margin: 70px 0;
+    padding: 120px 20px 130px 20px;
+
+}
+
+header>div.hshop>h1{
+color: white;
+font-family: auto;
+font-size: 50px;
+font-weight: bold;
+}
+
+header>div.hshop>p{
+    color: white;
+font-family: 'core';
+font-size: 18px;
+font-weight: bold;
+width: 600px;
+margin: 0 auto;
+line-height: 41px;
+}

@@ -1,0 +1,200 @@
+@media(min-width: 1200px){
+section.collections{
+    display: flex;
+    background-color: #F8F5EF;
+    padding: 60px 20px;
+    margin-top: 80px;
+}
+section.collections>div:nth-of-type(1){
+margin: 10px 0px 0 50px;
+}
+
+section.collections>div{
+    margin-right: 30px;
+}
+
+
+section.collections>div>span{
+    display: block;
+    margin-top: 5px;
+            font-family: 'Roboto';
+}
+
+section.collections>div>a{
+font-family: 'Inter';
+font-size: 13px;
+color: #7c7c7c;}
+section.collections>div>p{
+font-family: system-ui;
+    width: 76%;}
+
+    section.collections>div>h2{
+    font-family: 'Inter';
+    font-size: xx-large;
+
+    }
+
+    section.collections>div>img{
+        width: 280px;
+    }
+
+}
+@media(min-width: 992px) and (max-width: 1200px){
+        section.collections{
+            display: flex;
+            background-color: #F8F5EF;
+            padding: 60px 20px;
+            margin-top: 80px;
+        }
+        section.collections>div:nth-of-type(1){
+        margin: 10px 10px 10 30px;
+        }
+        
+        section.collections>div{
+            margin-right: 10px;
+        }
+        
+        section.collections>div>img{
+            width: 250px;
+        }
+
+        section.collections>div>span{
+            display: block;
+        }
+        
+        section.collections>div>a{
+        font-family: 'Inter';
+        font-size: 13px;
+        color: #7c7c7c;}
+        section.collections>div>p{
+        font-family: system-ui;
+        font-size: 10px;
+        }
+        
+            section.collections>div>h2{
+            font-family: 'Inter';
+        
+            } 
+    }
+
+@media(min-width: 768px) and (max-width: 992px){
+
+        section.collections{
+            display: flex;
+            background-color: #F8F5EF;
+            padding: 60px 20px;
+            margin-top: 20px;
+        }
+        section.collections>div:nth-of-type(1){
+        margin: 10px 10px 10 30px;
+        }
+        
+        section.collections>div{
+            margin-right: 10px;
+        }
+        
+        
+        section.collections>div>span{
+            display: block;
+        }
+        
+        section.collections>div>a{
+        font-family: 'Inter';
+        font-size: 13px;
+        color: #7c7c7c;}
+        section.collections>div>p{
+        font-family: system-ui;
+        font-size: 10px;
+        }
+        section.collections>div>img{
+            width: 200px;
+        }
+        
+            section.collections>div>h2{
+            font-family: 'Inter';
+        
+            } 
+
+    }
+
+    @media(min-width: 540px) and (max-width: 768px) {
+
+        section.collections{
+            text-align: center;
+            background-color: #F8F5EF;
+            padding: 20px 8px;
+            margin-top: 20px;
+        }
+        section.collections>div:nth-of-type(1){
+        margin: 5px 5px 5px 10px;
+        }
+        
+        section.collections>div{
+            margin-right: 5px;
+        }
+        
+        
+        section.collections>div>span{
+            display: block;
+        }
+        
+        section.collections>div>a{
+        font-family: 'Inter';
+        font-size: 10px;
+        color: #7c7c7c;}
+        section.collections>div>p{
+        font-family: system-ui;
+        font-size: 10px;
+        }
+        section.collections>div>img{
+            width: 350px;
+        }
+        
+            section.collections>div>h2{
+            font-family: 'Inter';
+        
+            } 
+
+    }
+
+    @media(max-width: 540px) {
+
+        section.collections{
+            text-align: center;
+            background-color: #F8F5EF;
+            padding: 10px 8px;
+        }
+        section.collections>div:nth-of-type(1){
+        margin: 5px 5px 5px 10px;
+        
+        }
+        
+        section.collections>div{
+            margin-right: 5px;
+        }
+        
+        section.collections>div>span{
+            display: block;
+            margin-top: 5px;
+            margin-bottom: 20px;
+            font-family: 'Roboto';
+        }
+        
+        section.collections>div>a{
+        font-family: 'Inter';
+        font-size: 10px;
+        color: #7c7c7c;}
+        section.collections>div>p{
+        font-family: system-ui;
+        font-size: 10px;
+        }
+
+        section.collections>div>img{
+            width: 150px;
+        }
+        
+            section.collections>div>h2{
+            font-family: 'Inter';
+         } 
+
+    }

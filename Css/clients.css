@@ -1,0 +1,329 @@
+@media(min-width: 1200px){
+section.CLIENTS{
+    padding: 10px 15px 0 15px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    position: relative;
+    width: 100%;
+    height: 680px;
+    background-image: url(../img/banner-3-scaled.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+section.CLIENTS>div{
+    background-color: #0D244C;
+    background-image: url(../img/line-4.svg);
+    background-repeat: no-repeat;
+    background-position: center left;
+    background-size: cover;
+    position: absolute;
+    left: 60px;
+    color: white;
+    display: inline-block;
+    padding: 80px 65px;
+    width: 469px;
+    margin: 60px 0;
+
+}
+
+section.CLIENTS>div>h3{
+    font-family: 'Font Awesome 5 Brands';
+    font-size: 35px;
+    color: #ffffff;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
+section.CLIENTS>div>p{
+    font-family: 'core';
+    line-height: 38px;
+    margin-top: 15px;
+}
+
+section.CLIENTS>div>div>img{
+    width: 150px;
+}
+section.CLIENTS>div>div{
+    margin: 30px 5px;
+}
+
+section.CLIENTS>div>a{
+font-size: 14px;
+color: white;
+margin: 15px auto;
+font-family: 'Roboto';
+letter-spacing: 2px;
+text-decoration: underline;
+transition: 0.5s;
+}
+
+section.CLIENTS>div>button:hover{
+    background-color: #BDDAE0;
+color: rgb(0, 0, 0);
+}
+}
+
+@media(min-width: 992px) and (max-width: 1200px){
+    section.CLIENTS{
+        margin-top: 150px;
+        margin-bottom: 150px;
+        position: relative;
+        width: 100%;
+        height: 680px;
+        background-image: url(../img/banner-3-scaled.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+    }
+    
+    section.CLIENTS>div{
+        background-color: #0D244C;
+        background-image: url(../img/line-4.svg);
+        background-repeat: no-repeat;
+        background-position: center left;
+        background-size: cover;
+        position: absolute;
+        left: 60px;
+        color: white;
+        display: inline-block;
+        padding: 80px 65px;
+        width: 469px;
+        margin: 100px 0;
+    
+    }
+    
+    section.CLIENTS>div>h3{
+        font-family: 'Font Awesome 5 Brands';
+        font-size: 35px;
+        color: #ffffff;
+        letter-spacing: 1px;
+        font-weight: bold;
+    }
+    
+    section.CLIENTS>div>p{
+        font-family: 'core';
+        line-height: 38px;
+        margin-top: 15px;
+    }
+    
+    section.CLIENTS>div>div>img{
+        width: 150px;
+    }
+    section.CLIENTS>div>div{
+        margin: 30px 5px;
+    }
+    
+    section.CLIENTS>div>a{
+    font-size: 14px;
+    color: white;
+    margin: 15px auto;
+    font-family: 'Roboto';
+    letter-spacing: 2px;
+    text-decoration: underline;
+    transition: 0.5s;
+    }
+    
+    section.CLIENTS>div>button:hover{
+        background-color: #BDDAE0;
+    color: rgb(0, 0, 0);
+    }
+    }
+
+    @media(min-width: 768px) and (max-width: 992px){
+        section.CLIENTS{
+            margin-top: 150px;
+            margin-bottom: 150px;
+            position: relative;
+            width: 100%;
+            height: 680px;
+            background-image: url(../img/banner-3-scaled.webp);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
+        }
+        
+        section.CLIENTS>div{
+            background-color: #0D244C;
+            background-image: url(../img/line-4.svg);
+            background-repeat: no-repeat;
+            background-position: center left;
+            background-size: cover;
+            position: absolute;
+            left: 60px;
+            color: white;
+            display: inline-block;
+            padding: 40px 35px;
+            width: 400px;
+            margin: 120px 0;
+        }
+        
+        section.CLIENTS>div>h3{
+            font-family: 'Font Awesome 5 Brands';
+            font-size: 35px;
+            color: #ffffff;
+            letter-spacing: 1px;
+            font-weight: bold;
+        }
+        
+        section.CLIENTS>div>p{
+            font-family: 'core';
+            line-height: 38px;
+            margin-top: 15px;
+        }
+        
+        section.CLIENTS>div>div>img{
+            width: 150px;
+        }
+        section.CLIENTS>div>div{
+            margin: 30px 5px;
+        }
+        
+        section.CLIENTS>div>a{
+        font-size: 14px;
+        color: white;
+        margin: 15px auto;
+        font-family: 'Roboto';
+        letter-spacing: 2px;
+        text-decoration: underline;
+        transition: 0.5s;
+        }
+        
+        section.CLIENTS>div>button:hover{
+            background-color: #BDDAE0;
+        color: rgb(0, 0, 0);
+        }
+        }
+
+        @media(min-width: 540px) and (max-width: 768px){
+            section.CLIENTS{
+                margin-top: 150px;
+                margin-bottom: 150px;
+                position: relative;
+                width: 100%;
+                height: 680px;
+                background-image: url(../img/banner-3-scaled.webp);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center center;
+            }
+            
+            section.CLIENTS>div{
+                background-color:#0D244C;
+                background-image: url(../img/line-4.svg);
+                background-repeat: no-repeat;
+                background-position: center left;
+                background-size: cover;
+                position: absolute;
+                left: 60px;
+                color: white;
+                display: inline-block;
+                padding: 40px 35px;
+                width: 400px;
+                margin: 120px 0;
+            
+            }
+            
+            section.CLIENTS>div>h3{
+                font-family: 'Font Awesome 5 Brands';
+                font-size: 35px;
+                color: #ffffff;
+                letter-spacing: 1px;
+                font-weight: bold;
+            }
+            
+            section.CLIENTS>div>p{
+                font-family: 'core';
+                line-height: 38px;
+                margin-top: 15px;
+            }
+            
+            section.CLIENTS>div>div>img{
+                width: 150px;
+            }
+            section.CLIENTS>div>div{
+                margin: 30px 5px;
+            }
+            
+            section.CLIENTS>div>a{
+            font-size: 14px;
+            color: white;
+            margin: 15px auto;
+            font-family: 'Roboto';
+            letter-spacing: 2px;
+            text-decoration: underline;
+            transition: 0.5s;
+            }
+            
+            section.CLIENTS>div>button:hover{
+                background-color: #BDDAE0;
+            color: rgb(0, 0, 0);
+            }
+            }
+
+            @media(max-width: 540px){
+                section.CLIENTS{
+                    margin-top: 150px;
+                    margin-bottom: 150px;
+                    position: relative;
+                    width: 100%;
+                    height: 680px;
+                    background-image: url(../img/banner-3-scaled.webp);
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    background-position: center center;
+                }
+                
+                section.CLIENTS>div{
+                    background-color: #0D244C;
+                    background-image: url(../img/line-4.svg);
+                    background-repeat: no-repeat;
+                    background-position: center left;
+                    background-size: cover;
+                    position: absolute;
+                    left: 50px;
+                    color: white;
+                    display: inline-block;
+                    padding: 50px 30px;
+                    width: 400px;
+                    margin: 110px 0;
+                
+                }
+                
+                section.CLIENTS>div>h3{
+                    font-family: 'Font Awesome 5 Brands';
+                    font-size: 35px;
+                    color: #ffffff;
+                    letter-spacing: 1px;
+                    font-weight: bold;
+                }
+                
+                section.CLIENTS>div>p{
+                    font-family: 'core';
+                    line-height: 38px;
+                    margin-top: 15px;
+                }
+                
+                section.CLIENTS>div>div>img{
+                    width: 150px;
+                }
+                section.CLIENTS>div>div{
+                    margin: 20px 5px;
+                }
+                
+                section.CLIENTS>div>a{
+                font-size: 14px;
+                color: white;
+                margin: 15px auto;
+                font-family: 'Roboto';
+                letter-spacing: 2px;
+                text-decoration: underline;
+                transition: 0.5s;
+                }
+                
+                section.CLIENTS>div>button:hover{
+                    background-color: #BDDAE0;
+                color: rgb(0, 0, 0);
+                }
+                }

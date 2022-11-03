@@ -1,0 +1,359 @@
+{
+    "menulogo": [
+        {
+            "image": "img/retail-logo-svg.svg"
+        }
+    ],
+    "menuhead": [
+        {
+            "menuh": "Home",
+            "https": "index.html"
+        },
+        {
+            "menuh": "About",
+            "https": "about.html"
+        },
+        {
+            "menuh": "shop",
+            "https": "shop.html"
+        },
+        {
+            "menuh": "Categories",
+            "https": "#"
+        },
+        {
+            "menuh": "Blog",
+            "https": "blog.html"
+        },
+        {
+            "menuh": "Contact",
+            "https": "contact.html"
+        }
+    ],
+    "menuico": [
+        {
+            "icon": "fas fa-user",
+            "icon1": "fas fa-shopping-cart"
+        }
+    ],
+    "header": [
+        {
+            "title": " Shop women",
+            "body": " morbi leo sagitting placerat sem.<br> nisel tinciduntnulla fames nislrisus egestas.",
+            "button": " view womenscollection"
+        },
+        {
+            "title": "Shop men",
+            "body": " morbi leo sagitting placerat sem. <br> nisel tinciduntnulla fames nislrisus egestas.",
+            "button": " view menscollection"
+        }
+    ],
+    "fhead": [
+        {
+            "type": "text",
+            "placeholder": "Search all products in our stor",
+            "name": "search",
+            "menuw": "shop woman",
+            "menum": "shop man",
+            "menud": "shop deals",
+            "menus": "shop new collections"
+        }
+    ],
+    "about": [
+        {
+            "title": "  Enim sit leo justo egestas ipsum.",
+            "pragraf": " Morbi leo sagittis placerat sem. Nisl tincidunt nulla fames nisl risus egestas.signature-2” ",
+            "image":"img/emza.jpg",
+            "button": " Buy today! "
+        }
+    ],
+    "banner": [
+        {
+            "h1": "Contact"
+        }
+    ],
+    "shopbanner": [
+        {
+            "h1": "Our shop",
+            "p":" Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui."
+        }
+    ],
+    "rightside": [
+        {
+            "img": "img/banner-14-600x236.jpg",
+            "p": "Amet pulvinar dignissim sapien massa amet, ac orci <br> rutrum. Quam in sed leo mauris etiam ut diam id.",
+            "h2": "We are passionnate about <br /> fashion and style.",
+            "span": "  1234 Avada Avenue <br />Avadaville, 11221",
+            "span2": " info@your-company.com <br /> Call us: (1) 234 5678"
+        }
+    ],
+    "leftside": [
+        {
+            "label1": "First name * ",
+            "label2": "Email address * ",
+            "label3": "Last name ",
+            "label4": " Phone number ",
+            "label5": " Subject",
+            "label6": " Reason of inquiry (conditional logic demo) *",
+            "label7": " What country do you need information about? * ",
+            "label8": " Message *"
+        }
+    ],
+    "Products": [
+        {
+            "image": "img/product-16.jpg",
+            "title": "Simple Tank Top",
+            "priceOld": "45$",
+            "price": "30$",
+            "off": "33%",
+            "hov":"Simple Tank Top"
+        },
+        {
+            "image": "img/product-1-400x448.webp",
+            "title": "Simple Tank Top",
+            "priceOld": "45$",
+            "price": null,
+            "off": null,
+            " hov":"Simple Tank Top"
+        },
+        {
+            "image": "img/product-2.jpg",
+            "title": "Spring Dotted Dress",
+            "priceOld": "45$",
+            "price": "30$",
+            "off": "33%",
+            " hov":"Spring Dotted Dress"
+        },
+        {
+            "image": "img/product-20-400x448.webp",
+            "title": "Wool Parka!",
+            "priceOld": "45$",
+            "price": null,
+            "off": null,
+            "hov":"Wool Parka!"
+        },
+        {
+            "image": "img/product-4-400x448.jpg",
+            "title": "White Dress",
+            "priceOld": "485$",
+            "price": null,
+            "off": null,
+            "hov": "White Dress"
+        },
+        {
+            "image": "img/product-5-400x448.jpg",
+            "title": "Light Floral Dress",
+            "priceOld": "45$",
+            "price": "30$",
+            "off": "33%",
+            " hov":"Light Floral Dress"
+        },
+        {
+            "image": "img/product-11-400x448.jpg",
+            "title": "Men Jacket",
+            "priceOld": "30$",
+            "price": null,
+            "off": null,
+            "hov": "Men Jacket"
+        },
+        {
+            "image": "img/product-6-400x448.jpg",
+            "title": "Red Sweater",
+            "priceOld": "40$",
+            "price": null,
+            "off": null,
+            "hov": "Red Sweater"
+        }
+    ],
+    "collections": [
+        {
+            "h2": " Browse the latest collections. ",
+            "p": "Morbi leo sagittis placerat sem. Nisl tincidunt nulla fames nisl risus egestas.",
+            "a": "Buy Avada today!",
+            "image1": "img/cat-19-400x400.jpg",
+            "image2": "img/cat-18-400x400.jpg",
+            "image3": "img/cat-14-400x400.jpg",
+            "span1": "Casual collection 7",
+            "span2": "Spring collection 11",
+            "span3": "Streetwear 4"
+        }
+    ],
+    "fusion": [
+        {
+            "h2": " Shop women",
+            "p": "Morbi leo sagittis placerat sem. Nisl tincidunt nulla fames <br> nisl risus egestas.",
+            "a": "View men’s collection",
+            "h21": "Shop streetwear",
+            "p1": "Morbi leo sagittis placerat sem. Nisl tincidunt nulla fames <br> nisl risus egestas.",
+            "a1": "View streetwear collection ",
+            "h22": "Shop men",
+            "p2": "Morbi leo sagittis placerat sem. Nisl tincidunt nulla fames <br> nisl risus egestas.",
+            "a2": "View men’s collection"
+        }
+    ],
+    "Subscribe": [
+        {
+            "h2": " Subscribe to our newsletter and get 10% Off!",
+            "p": "Velit morbi sed non est dolor tellus fringilla diam",
+            "input": "Insert your email ...*",
+            "butt": "Subscribe"
+        }
+    ],
+   
+
+
+    "CLIENTS": [
+        {
+            "title": "  Enim sit leo justo egestas ipsum.",
+            "pragraf": " Morbi leo sagittis placerat sem. Nisl tincidunt nulla fames nisl risus egestas.signature-2” ",
+            "image":"img/emza.jpg",
+            "button": " Buy today! "
+        }
+    ],
+    "blog":[
+        {
+            "h3":" Latest from the blog",
+            "p":"Morbi leo sagittis placerat sem nisl tincidunt nulla."
+        }
+    ],
+    "shopwomen":[{
+        "h3":" Shop women",
+        "p":"  morbi leo sagitting placerat sem. nisel tincidunt <br> nulla fames nislrisus egestas.",
+        "span":" view womenscollection"
+    }],
+    "shopmen":[{
+        "h3":" Shop men",
+        "p":"  morbi leo sagitting placerat sem. nisel tincidunt <br> nulla fames nislrisus egestas.",
+        "span":" view menscollection"
+    }]
+
+
+
+    ,
+    "part2blog":[{
+        "img":"img/blog-7-1200x677.jpg" , "div":" 6 brands to shop for a <br> fresh start this spring", "span":"Read article",
+        "i":"fas fa-arrow-right"
+    },
+    {
+        "img":"img/blog-5-1200x677.jpg" , "div":" Cute valentines day <br> gifts for him or her", "span":"Read article",
+        "i":"fas fa-arrow-right"
+    },
+    {
+        "img":"img/blog-3-1200x677.jpg" , "div":" Street style lookbook – <br> 2021 Edition", "span":"Read article",
+        "i":"fas fa-arrow-right"
+    }
+
+]
+
+    ,
+    "fashion": [
+        {
+            "image": "img/product-12-400x448.jpg"
+        },
+        {
+            "image": "img/product-13-400x448.jpg"
+        },
+        {
+            "image": "img/product-16.jpg"
+        },
+        {
+            "image": "img/product-4-400x448.jpg"
+        }
+    ],
+    "lobortis": [
+        {
+            "image": "img/icon-1.svg",
+            "paragraf": "Urna elit, sem lobortis faucibus Facilisi vel lectus etiam phasellus odio <br> in massa sociis congue massa feugiat ut sit pulvinar in.",
+            "href": " Buy Avada theme today!"
+        }
+    ],
+    "know": [
+        {
+            "title": "Want to be the first to know? ",
+            "p": " Nam nunc sed turpis placerat molestie sit amet vitae arcu. Orci varius natoque vpenatibus et magnis dis parturient montes.",
+            "butt": "FOLLOW US "
+        }
+    ],
+    "view": [
+        {
+            "icon": "img/icon-1.webp",
+            "p": "Urna elit, sem lobortis faucibus facilisi vel lectus etiam <br> phasellus odio.",
+            "a": "Buy Avada theme today!"
+        },
+        {
+            "icon": "img/icon-2.webp",
+            "p": "Urna elit, sem lobortis faucibus facilisi vel lectus etiam <br> phasellus odio.",
+            "a": "View latest collections"
+        },
+        {
+            "icon": "img/icon-3.webp",
+            "p": "Urna elit, sem lobortis faucibus facilisi vel lectus etiam <br> phasellus odio.",
+            "a": "Contact us"
+        }
+    ],
+    "menuFooter": [
+        {
+            "menu": "shop",
+            "https": "#"
+        },
+        {
+            "menu": "shop woman",
+            "https": "#"
+        },
+        {
+            "menu": "shop man",
+            "https": "#"
+        },
+        {
+            "menu": "shop deals",
+            "https": "#"
+        },
+        {
+            "menu": "shop new collections",
+            "https": "#"
+        }
+    ],
+    "lastfooter": [
+        {
+            "menul": "Order",
+            "https": "#"
+        },
+        {
+            "menul": "Downlod",
+            "https": "#"
+        },
+        {
+            "menul": " Addresses",
+            "https": "#"
+        },
+        {
+            "menul": "Account details",
+            "https": "#"
+        }
+    ],
+    "colm1f": [
+        {
+            "b": " More about Avada Retail",
+            "span": "   A at pellentesque et mattis porta enim elementum. Sagittis nulla fermentum massa erat porta.",
+                "i1": "fab fa-twitter",
+                "i2": "fab fa-facebook-f",
+                "i3": "fab fa-telegram-plane",
+                "i4": "fab fa-instagram"
+            
+        }
+    ],
+  "sbf":[{
+      "h3":"Subscribe to our newsletter.",
+      "p":"A at pellentesque et mattis porta enim elementum.",
+      "search":"Inser your email ...*",
+      "n":"searchbox",
+      "type":"text",
+      "butt":"Subscribe"
+  }]
+    ,
+    "Copyright": [
+        {
+            "p": "&copy;Copyright 2012 - 2022 | Avada Theme by ThemeFusion | All Rights Reserved "
+        }
+    ]
+}
